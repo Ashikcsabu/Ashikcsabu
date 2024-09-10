@@ -35,7 +35,9 @@ TensorFlow, Keras, NumPy, Pandas, SciPy
    
 https://github.com/user-attachments/assets/3f9d8887-5ac4-4b04-b3c9-256f32e2c78a
 
+Project link : [Click Here](https://github.com/Ashikcsabu/Emotion_decoder)
 
+Documentation : [Click Here](https://ashikcsabu.github.io/Emotion_decoder_guide/)
 
 ❖  **GAME Recommender Deck (Feb 2024)** 
     <p>To predict top five similar games of same genre and play style from the games released in STEAM. By leveraging the cosine distance, we analyze the characteristics of your favorite games to find similar ones in terms of genre and play style. Plus, with the sleek and user-friendly interface powered by Streamlit, exploring new gaming adventures has never been easier.</p>

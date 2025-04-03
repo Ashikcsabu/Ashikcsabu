@@ -75,3 +75,5 @@ Certificate : [Click here](https://confirm.omdena.com/LC6vpny)
 Role : Python Intern 
 
 As a Python Intern, I led the development of an algorithm training model and created a machine learning model to predict market trends. My role involved collecting and cleaning datasets, visualizing trading graphs, and analyzing trends. Additionally, I trained an unsupervised learning model to further analyze and predict market trends.
+
+![](https://komarev.com/ghpvc/?username=Ashikcsabu&color=green)

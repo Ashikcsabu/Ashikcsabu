@@ -3,7 +3,7 @@ I'm passionate about Artificial Intelligence and Machine Learning, constantly ex
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
 
-<img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=green" />
+<img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <p align="left">

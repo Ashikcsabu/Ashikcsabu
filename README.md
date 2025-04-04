@@ -8,7 +8,7 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
 <a href="https://www.linkedin.com/in/ashik-c-sabu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/100px-LinkedIn_Logo_2013_%282%29.svg.png?20210531155021&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank">
-                           <img src="media/linkedin.svg" alt="LinkedIn">
+                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/linkedin.svg" alt="LinkedIn">
                        </a>
                        <a href="https://x.com/ashikcsabu" target="_blank">
                            <img src="media/twitter.svg" alt="X">

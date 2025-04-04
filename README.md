@@ -16,7 +16,7 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
         <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" height="40">
 </p>
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜

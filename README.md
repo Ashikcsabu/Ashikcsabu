@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+👋🙋‍♂️;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🙋‍♂️;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
 </p>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-FF7F50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)

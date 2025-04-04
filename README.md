@@ -5,15 +5,15 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="40">
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://x.com/ashikcsabu" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40">
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.instagram.com/acs_2xx3/" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="40">
     </a>

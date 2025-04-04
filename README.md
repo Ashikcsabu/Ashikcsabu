@@ -11,16 +11,16 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
                            <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/linkedin.svg" alt="LinkedIn">
                        </a>
                        <a href="https://x.com/ashikcsabu" target="_blank">
-                           <img src="media/twitter.svg" alt="X">
+                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/twitter.svg" alt="X">
                        </a>
                        <a href="https://wa.me/9778144060" target="_blank">
-                           <img src="media/whatsapp.svg" alt="WhatsApp">
+                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/whatsapp.svg" alt="WhatsApp">
                        </a>
                        <a href="https://www.instagram.com/acs_2xx3/" target="_blank">
-                           <img src="media/instagram.svg" alt="Instagram">
+                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/instagram.svg" alt="Instagram">
                        </a>
                        <a href="https://t.me/+919778144060" target="_blank">
-                           <img src="media/telegram.svg" alt="Telegram">
+                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/telegram.svg" alt="Telegram">
                        </a>
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜

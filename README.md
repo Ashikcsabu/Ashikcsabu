@@ -1,6 +1,6 @@
-<div align="centre">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🖖;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&center=true&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🖖;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
+</p>
 
 I'm passionate about Artificial Intelligence and Machine Learning, constantly exploring the frontiers of technology to solve real-world problems. My work spans from deep learning projects and natural language processing to developing intelligent systems that learn and adapt.
 

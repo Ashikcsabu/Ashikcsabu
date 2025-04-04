@@ -5,7 +5,7 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
 
 <p align="left">
     <a href="https://ashikcsabu.github.io/A.C.S_Core/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="30">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="32">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank" rel="noreferrer" style="text-decoration: none;">

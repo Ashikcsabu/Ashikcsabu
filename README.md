@@ -3,11 +3,8 @@ I'm passionate about Artificial Intelligence and Machine Learning, constantly ex
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
 
-<img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
-
-<a href="https://www.linkedin.com/in/ashik-c-sabu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/100px-LinkedIn_Logo_2013_%282%29.svg.png?20210531155021&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
     <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="40">
     </a>

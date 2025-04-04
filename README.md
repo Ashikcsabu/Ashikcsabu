@@ -5,8 +5,7 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
 
 <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
 
-
-  <a href="https://www.linkedin.com/in/ashik-c-sabu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/100px-LinkedIn_Logo.svg.png?20170711102837&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ashik-c-sabu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/100px-LinkedIn_Logo_2013_%282%29.svg.png?20210531155021&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <p align="left">

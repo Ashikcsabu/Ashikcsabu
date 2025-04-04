@@ -3,7 +3,7 @@ I'm passionate about Artificial Intelligence and Machine Learning, constantly ex
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-8A2BE2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)
+[![portfolio](https://img.shields.io/badge/my_portfolio-FF7F50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <p align="left">

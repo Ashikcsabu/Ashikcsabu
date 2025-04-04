@@ -7,21 +7,23 @@ On this GitHub, you'll find repositories reflecting my journey in AI-ML, includi
 
 <a href="https://www.linkedin.com/in/ashik-c-sabu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/100px-LinkedIn_Logo_2013_%282%29.svg.png?20210531155021&style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank">
-                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/linkedin.svg" alt="LinkedIn">
-                       </a>
-                       <a href="https://x.com/ashikcsabu" target="_blank">
-                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/twitter.svg" alt="X">
-                       </a>
-                       <a href="https://wa.me/9778144060" target="_blank">
-                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/whatsapp.svg" alt="WhatsApp">
-                       </a>
-                       <a href="https://www.instagram.com/acs_2xx3/" target="_blank">
-                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/instagram.svg" alt="Instagram">
-                       </a>
-                       <a href="https://t.me/+919778144060" target="_blank">
-                           <img src="https://github.com/Ashikcsabu/A.C.S_Core/blob/main/media/telegram.svg" alt="Telegram">
-                       </a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="LinkedIn" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/ashikcsabu" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/acs_2xx3/" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" alt="Instagram" width="40">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/+919778144060" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/telegram.svg" alt="Telegram" width="40">
+    </a>
+</p>
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <p align="left">

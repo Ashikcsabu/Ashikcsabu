@@ -3,9 +3,9 @@ I'm passionate about Artificial Intelligence and Machine Learning, constantly ex
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/)
+
 <p align="left">
-    [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/)
-    &nbsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" />
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/ashik-c-sabu/" target="_blank" rel="noreferrer" style="text-decoration: none;">

@@ -1,4 +1,4 @@
-<div align="left">
+<div align="centre">
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🖖;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&center=true&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
 </div>
 

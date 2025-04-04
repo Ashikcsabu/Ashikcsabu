@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🖖;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
 </p>
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-FF7F50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)
+
 I'm passionate about Artificial Intelligence and Machine Learning, constantly exploring the frontiers of technology to solve real-world problems. My work spans from deep learning projects and natural language processing to developing intelligent systems that learn and adapt.
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-FF7F50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <p align="left">

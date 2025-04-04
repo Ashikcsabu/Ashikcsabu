@@ -3,20 +3,20 @@ I'm passionate about Artificial Intelligence and Machine Learning, constantly ex
 
 On this GitHub, you'll find repositories reflecting my journey in AI-ML, including experiments, models, and projects that showcase my skills and curiosity. I'm always eager to collaborate, learn, and contribute to the vibrant tech community. Let's build the future together!
 
-<p align="center">
+<p align="left">
     <a href="https://katherineoelsner.com/" target="_blank">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" width="30">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" width="60">
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="30">
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="60">
     </a>
     &nbsp;&nbsp;
     <a href="https://twitter.com/" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="30">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="60">
     </a>
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" height="30" width="30">
+    <img src="https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet" height="30" width="60">
 </p>
 
 ## ⚙️  𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜

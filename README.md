@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Ashik+C+Sabu+🙋‍♂️;Machine+Learning+Enthusiast!;Python+Full-Stack+Developer!&font=Fira%20Code&width=500&height=50&color=ffffff&vCenter=true&size=22&pause=1000" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+I+am+Ashik+C+Sabu+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Machine+Learning+Enthusiast!;Python+Fullstack+Developer!" alt="Typing SVG" /></a>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-FF7F50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ashikcsabu.github.io/A.C.S_Core/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-c-sabu/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ashikcsabu) ![profile views](https://komarev.com/ghpvc/?username=Ashikcsabu&style=for-the-badge&color=blueviolet)
 
